@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./packages/private-components" },
+    { "path": "./packages/public-tools" },
+    { "path": "./website" }
+  ]
+}
